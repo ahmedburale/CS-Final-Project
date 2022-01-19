@@ -1,0 +1,15 @@
+Espresso, 5.5
+Cafe Latte, 5.5
+Americano, 5.5
+Machado, 5.5
+White Cafe with Milk, 5.5
+Cappuccino, 5.5
+Tea, 5.5
+Cake, 7.5
+Red Bull, 20.0
+Pizza, 20.0
+burger, 60.0
+Banana, 1.0
+Mango, 3.0
+Lemon Juice, 4.7
+500ml Milk, 2.8
