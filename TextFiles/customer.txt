@@ -1,0 +1,5 @@
+name = 'mike', phone = '+342345'', Items = [Name =' White Cafe with Milk'   Price = '5.5', Name =' Tea'   Price = '5.5', Name =' Red Bull'   Price = '20.0']', Total Purchase = 31.0, Amount Gave = 40.0
+name = 'Jack', phone = '+232432'', Items = [Name =' Tea'   Price = '5.5', Name =' Machhiatto'   Price = '5.5', Name =' Pizza'   Price = '50.0']', Total Purchase = 61.0, Amount Gave = 70.0
+name = 'Micheal', phone = '+983273'', Items = [Name =' Americano'   Price = '5.5', Name =' White Cafe with Milk'   Price = '5.5', Name =' Cake'   Price = '7.5', Name =' Red Bull'   Price = '20.0']', Total Purchase = 38.5, Amount Gave = 50.0
+name = 'Lana', phone = '+4235235'', Items = [Name =' Americano'   Price = '5.5', Name =' White Cafe with Milk'   Price = '5.5', Name =' burger'   Price = '60.0']', Total Purchase = 71.0, Amount Gave = 100.0
+name = 'Alexander', phone = '6576'', Items = [Name =' Tea'   Price = '5.5', Name =' White Cafe with Milk'   Price = '5.5', Name =' Americano'   Price = '5.5']', Total Purchase = 16.5, Amount Gave = 50.0
